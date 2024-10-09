@@ -1,16 +1,21 @@
-## Hi there 👋
+# dev-nine
+### 💻 Backend Developer | Java & Spring Boot Specialist
 
-<!--
-**devnine-codes/devnine-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m devnine, a backend developer specializing in building scalable and reliable systems. I’m passionate about creating efficient APIs, automating processes, and exploring cloud solutions.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: Java, JavaScript, TypeScript
+- **Frameworks**: Spring Boot, Express
+- **Libraries**: React, Vue
+- **Databases**: MariaDB, MongoDB, Oracle
+- **DevOps**: AWS, Docker, Jenkins, Git
+- **Testing**: JUnit, Mockito, Swagger, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced AWS services for scalable architectures.
+- Improving performance through best coding practices.
+
+## 📫 Get in Touch
+- **Email**: dev.nine0@gmail.com
+
+Let's build something great together!
