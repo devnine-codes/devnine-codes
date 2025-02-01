@@ -20,4 +20,4 @@ Hi there! I’m devnine, a backend developer specializing in building scalable a
 
 Let's build something great together!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-nine&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnine-codes&show_icons=true&theme=radical)
