@@ -19,3 +19,5 @@ Hi there! I’m devnine, a backend developer specializing in building scalable a
 - **Email**: dev.nine0@gmail.com
 
 Let's build something great together!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-nine&show_icons=true&theme=radical)
