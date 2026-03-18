@@ -1,43 +1,24 @@
-# dev-nine
-### 💻 Backend Developer | Java & Spring Boot Specialist
+<div align="center">
 
-Hi there! I’m devnine, a backend developer specializing in building scalable and reliable systems. I’m passionate about creating efficient APIs, automating processes, and exploring cloud solutions.
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=160&section=header&text=devnine&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-## 🔧 Tech Stack
-- **Languages**: Java, JavaScript, TypeScript
-- **Frameworks**: Spring Boot, Express
-- **Libraries**: React, Vue
-- **Databases**: MariaDB, MongoDB, Oracle
-- **DevOps**: AWS, Docker, Jenkins, Git
-- **Testing**: JUnit, Mockito, Swagger, Postman
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=6366F1&center=true&vCenter=true&width=300&lines=Think.;Make.;Release.)](https://git.io/typing-svg)
 
-## 🌱 Currently Learning
-- Advanced AWS services for scalable architectures.
-- Improving performance through best coding practices.
+</div>
 
-## 📫 Get in Touch
-- **Email**: dev.nine0@gmail.com
+| | | |
+|---|---|---|
+| **Habimon** | Tamagotchi-style habit tracker with a retro pixel pet | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/habimon-pet-growth-habits/id6754447077) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devnine.habimon) |
+| **TrayGo** | Simple inventory management for small teams | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/jp/app/traygo-%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86/id6755905152) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devnine.traygo) |
+| **BallRoyale** | Last ball standing wins — **[Play now →](https://ballroyale.pages.dev/)** | [![Web](https://img.shields.io/badge/Web-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://ballroyale.pages.dev/) |
 
-Let's build something great together!
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnine-codes&show_icons=true&theme=radical)
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## DareZone ([https://darezone.kr](https://darezone.kr/)) - 2026.01.17 End of Service
-<img width="800" height="400" alt="데어존홈1" src="https://github.com/user-attachments/assets/f7d6719e-8057-4420-a291-95c11c2804dc" />
+[![Website](https://img.shields.io/badge/devnine.co-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://devnine.co)
+[![Email](https://img.shields.io/badge/dev.nine0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.nine0@gmail.com)
 
-## FloatLand ([https://floatland.devnine.co/](https://floatland.devnine.co/)) - 2026.01.17 End of Service
-<img width="800" height="400" alt="floatland" src="https://github.com/user-attachments/assets/c269d8a7-290d-4855-bc50-4183cda9c8e0" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer)
 
-## NeoPick ([https://devnine.co/neopick/index.html](https://devnine.co/neopick/index.html)) - 2026.01.17 End of Service
-
-
-<img width="150" height="500" alt="neopick" src="https://github.com/user-attachments/assets/fbd60137-34e9-4675-a762-4c50058c23c3" />
-
-
-## Nemerix - 2048 Puzzle Game
-
-<img width="150" height="500" alt="numerix" src="https://github.com/user-attachments/assets/6df5bc6d-df1b-4d1d-a5d5-34aacff8df62" />
-<img width="150" height="500" alt="numerix" src="https://github.com/user-attachments/assets/0d41d034-7ccb-4722-94f5-417521bac488" />
-<img width="150" height="500" alt="numerix" src="https://github.com/user-attachments/assets/bd6369d6-489e-420e-a50b-0ba914cd5dac" />
-
-
+</div>
